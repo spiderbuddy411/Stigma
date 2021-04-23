@@ -1,7 +1,6 @@
 𝓞𝓵𝓪́ 𝓮𝓾 𝓼𝓸𝓾 𝓸 Stigma
 
-
-      
+<script src="https://tryhackme.com/badge/318929"></script>
 
 Anurag's GitHub stats
 
