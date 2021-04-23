@@ -9,7 +9,7 @@ Anurag's GitHub stats
 🦊 ~ 🆂🅾🅱🆁🅴 🅼🅸🅼 ~ 🦊
 
      Obrigado por me conhecer um pouco +
-                  Ass:ProHat
+                  Ass:Stigma
 
 
            📝 ~ 𝙀𝙣𝙩𝙧𝙖𝙧 𝙚𝙢 𝙘𝙤𝙣𝙩𝙖𝙩𝙤 ~ 📝
