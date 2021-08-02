@@ -1,6 +1,11 @@
 # Stigma;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <br>
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
 
 [![Stigma GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=cobalt)](https://github.com/spiderbuddy411)
 [![Stigma Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderbuddy411&layout=compact&show_icons=true&theme=cobalt)](https://github.com/spiderbuddy411)
