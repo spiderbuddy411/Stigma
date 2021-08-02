@@ -2,5 +2,5 @@
 
 ![image](https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=cobalt) <br>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderbuddy411)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderbuddy411&show_icons=true&theme=cobalt)
 
