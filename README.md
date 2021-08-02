@@ -2,4 +2,5 @@
 ![Stigma GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=cobalt)
 ![Stigma GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderbuddy411&show_icons=true&theme=cobalt)
 
-![Stigma GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=spiderbuddy411)
+[![Stigma GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=spiderbuddy411)](https://github.com/anuraghazra/github-readme-stats)
+
