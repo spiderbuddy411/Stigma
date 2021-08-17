@@ -1,7 +1,7 @@
 # Stigma;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
-<a href="https://www.webcontadores.com" title="contador de visitas"><img src="https://counter10.stat.ovh/private/webcontadores.php?c=m1mfghr7yrrb8apx12nmnxtm7bnslfbg" border="0" title="contador de visitas" alt="contador de visitas"></a>
+<img src="https://camo.githubusercontent.com/8e495d8dc7c050cf85a83d027639f0ca74938abe3b1fd30117ae1bb7700b5e6b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617072336e64693526636f6c6f723d303030303031" border="0" title="contador de visitas" alt="contador de visitas"></a>
 <br>
 
 
