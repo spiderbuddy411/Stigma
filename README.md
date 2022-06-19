@@ -16,6 +16,7 @@
   <img align="center" alt="Stigma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Stigma-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Stigma-RedHatLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
+
   
 [![Stigma](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=MYSQL&logoColor=white)](https://github.com/spiderbuddy411) 
 [![Stigma](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=POSTGRESQL&logoColor=white)](https://github.com/spiderbuddy411) 
@@ -32,6 +33,9 @@
 [![Stigma](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://codebuilding.org/)<br>
 
  ![Snake animation](https://github.com/spiderbuddy411/spiderbuddy411/blob/output/github-contribution-grid-snake.svg)
+  
+  <img align="center" alt="Stigma-RedHatLinux" height="450" width="750" src="https://user-images.githubusercontent.com/67505790/174493655-dc18b286-830a-4251-876c-fb6518950231.png">
+
 
  
 </div>
