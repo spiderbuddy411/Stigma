@@ -1,15 +1,10 @@
-# Stigma;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+
 
 
 <img src="https://camo.githubusercontent.com/8e495d8dc7c050cf85a83d027639f0ca74938abe3b1fd30117ae1bb7700b5e6b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617072336e64693526636f6c6f723d303030303031" border="0" title="contador de visitas" alt="contador de visitas"></a>
 <br>
 
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
-
-[![Stigma GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=cobalt)](https://github.com/spiderbuddy411)
+[![Stigma GitHub stats](https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=cobalt)](https://github.com/spiderbuddy411)<br>
 [![Stigma Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiderbuddy411&layout=compact&show_icons=true&theme=cobalt)](https://github.com/spiderbuddy411)
 <br>
 <br>
@@ -19,7 +14,7 @@
 [![Stigma](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/spiderbuddy411)  
 <br>
 <br>
-                        [![Stigma](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohenriquecruvinel/) 
+[![Stigma](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohenriquecruvinel/) 
 [![Stigma](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://codebuilding.org/)
 
 
