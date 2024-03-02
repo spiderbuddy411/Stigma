@@ -1,5 +1,4 @@
-<img src="https://camo.githubusercontent.com/8e495d8dc7c050cf85a83d027639f0ca74938abe3b1fd30117ae1bb7700b5e6b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617072336e64693526636f6c6f723d303030303031" border="0" title="contador de visitas" alt="contador de visitas"></a>
-## Ola sou o Bruno Henrique, seja bem-vindo ao meu Git, provável que não encontrara quase nada para você, muito repositórios estou liberando ao public. avaliando algumas coisas para isso.
+## <h3>Ola sou o Bruno Henrique, seja bem-vindo ao meu Git, provável que não encontrara quase nada para você, muito repositórios estou liberando ao public. avaliando algumas coisas para isso.<h3/>
 <div align="center">
   <a href="[[https://github.com/rafaballerini](https://github.com/spiderbuddy411)](https://github.com/spiderbuddy411)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spiderbuddy411&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
